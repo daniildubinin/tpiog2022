@@ -505,7 +505,7 @@
 505. [Расскажите о контейнерах стандартной библиотеки vector, list, map, unordered_map.](answers/505.md)
 506. [Какие знаете типы итераторов? Чем они отличаются? В каких контейнерах используются?](answers/506.md)
 507. [Какая разница между std::set, std::map std::unordered_multimap?](answers/507.md)
-508. [**Что такое идиома remove-erase?**](answers/508.md)
+508. [**Что  такое идиома remove-erase?**](answers/508.md)
 509. [Как получить наименьшее значение типа?](answers/509.md)
 510. [Какая разница между std::map и std::hashmap?](answers/510.md)
 511. [Как подсчитать количество элементов в std::list?](answers/511.md)
