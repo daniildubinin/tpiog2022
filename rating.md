@@ -40,7 +40,7 @@
 ## Week 04
 | nickname               | questions | tasks |
 | :--------------------- |:---------:|:-----:|
-| yashahao               | 8         | 0     |
+| yashahao               | 8         | 1     | // t05
 | daragormash            | 0         | 2     |
 | DianaTsikhanovich      | 1         | 0     | // 166 
 | OlgaSitnikova          | 10        |       | // 224, 392, 393, 394, 395, 396, 397, 398, 399, 518
