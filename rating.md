@@ -56,4 +56,5 @@
 | nickname               | questions | tasks |
 | :--------------------- |:---------:|:-----:|
 | OlgaSitnikova          | 3         |       | // 538, 539, 540 
-| saymoneylong           | 1         |       | // 057
+| saymoneylong           | 1         | 1     | // 057, w02-01
+02
