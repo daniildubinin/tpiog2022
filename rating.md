@@ -6,7 +6,7 @@
 | daniildubinin          | 3         | 0     |
 | AlexandraAvgustinovich | 0         | 1     |
 | yashahao               | 3         | 1     |
-| VictoriaAlehnovich     | 3         | 1     |
+| VictoriaAlehnovich_    | 3         | 1     |
 |                        |           |       |
 
 ## Week 02
