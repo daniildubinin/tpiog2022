@@ -113,4 +113,33 @@
   [Краткий курс по графам](https://leetcode.com/explore/featured/card/graph/)  
 </details>
 
+<details>
+  <summary>  
+  
+  ### Неделя 07  
+  </summary>  
+  
+  #### Видео (85m24s)  
+  [Распределение кода по файлам](https://youtube.com/playlist?list=PLQsYkTzyA74C8n6Xn2cPBUt0jwU5hCeb5)    
+  #### Теория   
+  [Двоичные деревья (курс на leetcode)](https://leetcode.com/explore/learn/card/data-structure-tree/)  
+  #### Задачи  
+  [Двоичные деревья](tasks/W07.md)   
+
+</details>
+
+<details>
+  <summary>  
+  
+  ### Неделя 08  
+  </summary>  
+  
+  #### Видео (103m16s)  
+  [Итераторы, алгоритмы и контейнеры](https://youtube.com/playlist?list=PLQsYkTzyA74DZW-Lmb431BlTx9aFr75XJ)    
+  #### Теория   
+  [Деревья с произвольным числом потомков (курс на leetcode)](https://leetcode.com/explore/learn/card/n-ary-tree/)      
+  #### Задачи  
+  [Деревья](tasks/W08.md)   
+
+</details>
 
